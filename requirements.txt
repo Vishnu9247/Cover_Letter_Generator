@@ -1,0 +1,6 @@
+streamlit>=1.30.0
+pypdf>=3.15.4
+fpdf>=1.7.2
+python-docx>=1.1.0
+google-generativeai>=0.4.1
+unicodedata2
