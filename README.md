@@ -33,7 +33,7 @@ Users can preview, edit, and export the generated cover letter in **PDF** or **W
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cover-letter-generator.git
+git clone https://github.com/Vishnu9247/Cover_Letter_Generator
 cd cover-letter-generator
 ```
 
