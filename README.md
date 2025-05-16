@@ -38,7 +38,7 @@ cd cover-letter-generator
 ```
 
 ### 2. Get Gemini API Key
-Visit Google Gemini API Key Page
+Visit Google Gemini API Key Page - https://ai.google.dev/gemini-api/docs/api-key?authuser=1
 
 Generate your API Key
 
