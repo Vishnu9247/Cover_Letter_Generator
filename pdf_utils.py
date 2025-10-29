@@ -15,6 +15,7 @@ def pdf_extract(file_path):
             print("No text found on this page.")
 
 
+
 #resume = pdf_extract("resume_vishnu_vardhan_reddy_alla (5).pdf")
 #print(resume)
 
